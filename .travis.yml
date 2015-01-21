@@ -38,3 +38,8 @@ matrix:
       jdk: openjdk7
     - rvm: 2.1.5
       jdk: oraclejdk7
+    - rvm: rbx-2.4.1
+      jdk: openjdk6
+    - rvm: rbx-2.4.1
+      jdk: openjdk7
+    - rvm: rbx-2.4.1
