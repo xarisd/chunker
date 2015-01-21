@@ -1,5 +1,7 @@
 # Chunker
 
+[![Build Status](https://travis-ci.org/xarisd/chunker.svg?branch=master)](https://travis-ci.org/xarisd/chunker)
+
 A small utility that reads and writes files in chunks
 
 ## Installation
